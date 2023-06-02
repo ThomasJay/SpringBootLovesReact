@@ -1,6 +1,11 @@
 # Compiled class file
 *.class
 
+**/node_modules
+**/build
+**/.DS_Store
+**/target
+
 # Log file
 *.log
 
